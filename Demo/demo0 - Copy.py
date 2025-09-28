@@ -14,3 +14,6 @@ yx=old and young
 print(yx)
 yx=old or young
 print(yx)
+i=4
+r=i+1
+print(r)
