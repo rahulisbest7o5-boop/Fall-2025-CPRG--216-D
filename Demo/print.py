@@ -1,0 +1,5 @@
+print(format(12345.6789,'.2f'))
+print(format(12345.6789,'14,.2f'))
+print(format(12345.6789,'.2e'))
+print(format(0.5,'%'))
+print(format(123,'d'))

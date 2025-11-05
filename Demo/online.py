@@ -13,5 +13,4 @@ else:
     print("You cannot enter the party!")
 
 
-elif
 
